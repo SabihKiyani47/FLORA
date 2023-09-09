@@ -9224,17 +9224,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekiysab\\Downloads\\Flora\\Flora\\Flora\\Flora.csproj",
+      "projectUniqueName": "C:\\Users\\ekiysab\\Downloads\\Git\\Flora\\Flora.csproj",
       "projectName": "Flora",
-      "projectPath": "C:\\Users\\ekiysab\\Downloads\\Flora\\Flora\\Flora\\Flora.csproj",
+      "projectPath": "C:\\Users\\ekiysab\\Downloads\\Git\\Flora\\Flora.csproj",
       "packagesPath": "C:\\Users\\ekiysab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ekiysab\\Downloads\\Flora\\Flora\\Flora\\obj\\",
+      "outputPath": "C:\\Users\\ekiysab\\Downloads\\Git\\Flora\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ekiysab\\Downloads\\Flora\\Flora\\NuGet.Config",
+        "C:\\Users\\ekiysab\\Downloads\\Git\\NuGet.Config",
         "C:\\Users\\ekiysab\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
