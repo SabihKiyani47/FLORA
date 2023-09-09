@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Flora",
+    "\\Flora\\Views",
+    "\\Flora\\Views\\XTZ"
   ],
-  "SelectedNode": "\\C:\\Users\\ekiysab\\Downloads\\Git",
+  "SelectedNode": "\\Flora\\Views\\XTZ\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

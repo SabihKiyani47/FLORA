@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "EQ5Z3xW9WBfO/7J2hUlaDW8yX7Dy/WtZkptkU4hCboYSVnq4e0byBN/sRm08yXkwWUND/eQpaHtDdAUDf6mAUA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ekiysab\\Downloads\\Git\\FloraServices\\FloraServices.csproj",
-=======
-  "dgSpecHash": "t42gmxUSykws7Mc3USm3qv+kgdrb16lrQWgTEJxulkRL8AhAa7Gskh5r5RDg3Eh0s+Ojfb8Zqnh5+deQfLq0Bg==",
-  "success": true,
-  "projectFilePath": "D:\\Flora\\FloraServices\\FloraServices.csproj",
->>>>>>> 0e709c899e2c157a5da8b987b66d2cbdbc22e49a
   "expectedPackageFiles": [],
   "logs": []
 }
